@@ -1,0 +1,13 @@
+{
+  "name": "dojos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jest": "^24.8.0"
+  }
+}
